@@ -3,6 +3,8 @@
 - 👩🏽‍🎓 Ciencia de dados
 - 😀 Ela/dela 
 
+## Aqui você encontrará todos os projetos feitos durante minha jornada de estudos além de outras curiosidades,
+
 <div align="baseline">
   <a href="https://github.com/IZELDAVALERIANO">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IZELDAVALERIANO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
