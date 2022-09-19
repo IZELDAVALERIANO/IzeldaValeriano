@@ -3,7 +3,7 @@
 - 👩🏽‍🎓 Ciencia de dados
 - 😀 Ela/dela 
 
-## Aqui você encontrará todos os projetos feitos durante minha jornada de estudos além de outras curiosidades,
+## Aqui você encontrará todos os projetos feitos durante minha jornada de estudos.
 
 <div align="baseline">
   <a href="https://github.com/IZELDAVALERIANO">
